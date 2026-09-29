@@ -1,0 +1,8 @@
+/home/yago/Projetos/programas/C#/API/revisao/rev01/obj/Debug/net8.0/rev01.csproj.AssemblyReference.cache
+/home/yago/Projetos/programas/C#/API/revisao/rev01/obj/Debug/net8.0/rpswa.dswa.cache.json
+/home/yago/Projetos/programas/C#/API/revisao/rev01/obj/Debug/net8.0/rev01.GeneratedMSBuildEditorConfig.editorconfig
+/home/yago/Projetos/programas/C#/API/revisao/rev01/obj/Debug/net8.0/rev01.AssemblyInfoInputs.cache
+/home/yago/Projetos/programas/C#/API/revisao/rev01/obj/Debug/net8.0/rev01.AssemblyInfo.cs
+/home/yago/Projetos/programas/C#/API/revisao/rev01/obj/Debug/net8.0/rev01.csproj.CoreCompileInputs.cache
+/home/yago/Projetos/programas/C#/API/revisao/rev01/obj/Debug/net8.0/rev01.MvcApplicationPartsAssemblyInfo.cs
+/home/yago/Projetos/programas/C#/API/revisao/rev01/obj/Debug/net8.0/rev01.MvcApplicationPartsAssemblyInfo.cache
